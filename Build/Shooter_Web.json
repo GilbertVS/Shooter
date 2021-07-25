@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Shooter",
+"productVersion": "0.1",
+"dataUrl": "Shooter_Web.data.unityweb",
+"wasmCodeUrl": "Shooter_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Shooter_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Shooter_Web.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
